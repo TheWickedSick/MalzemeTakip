@@ -1,0 +1,17 @@
+D:\malzemeTakip\malzemeTakip\bin\Debug\malzemeTakipAccess.accdb
+D:\malzemeTakip\malzemeTakip\bin\Debug\malzemeTakip.exe
+D:\malzemeTakip\malzemeTakip\bin\Debug\malzemeTakip.pdb
+D:\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.Form1.resources
+D:\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.Properties.Resources.resources
+D:\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.csproj.GenerateResource.Cache
+D:\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.exe
+D:\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.pdb
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.exe
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.pdb
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\bin\Debug\malzemeTakipAccess.accdb
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\bin\Debug\malzemeTakip.exe
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\bin\Debug\malzemeTakip.pdb
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.csprojResolveAssemblyReference.cache
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.Form1.resources
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.Properties.Resources.resources
+D:\16.03.2017flashyedek\malzemeTakip\malzemeTakip\obj\x86\Debug\malzemeTakip.csproj.GenerateResource.Cache
