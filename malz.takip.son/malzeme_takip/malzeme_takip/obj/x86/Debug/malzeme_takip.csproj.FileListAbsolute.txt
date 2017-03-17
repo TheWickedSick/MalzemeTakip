@@ -1,0 +1,55 @@
+D:\ \Malzeme Takip Programı Bizim Yaptıgımız\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form1.resources
+D:\ \Malzeme Takip Programı Bizim Yaptıgımız\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form2.resources
+D:\ \Malzeme Takip Programı Bizim Yaptıgımız\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csproj.GenerateResource.Cache
+H:\ \Malzeme Takip Programı Bizim Yaptıgımız\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csprojResolveAssemblyReference.cache
+H:\ \Malzeme Takip Programı Bizim Yaptıgımız\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form1.resources
+H:\ \Malzeme Takip Programı Bizim Yaptıgımız\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form2.resources
+H:\ \Malzeme Takip Programı Bizim Yaptıgımız\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csproj.GenerateResource.Cache
+I:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csprojResolveAssemblyReference.cache
+I:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form1.resources
+I:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csproj.GenerateResource.Cache
+I:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe.manifest
+I:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.application
+I:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe
+I:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.pdb
+I:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.TrustInfo.xml
+I:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.exe.manifest
+I:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.application
+I:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.exe
+I:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.pdb
+D:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.exe
+D:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csprojResolveAssemblyReference.cache
+D:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form1.resources
+D:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form2.resources
+D:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csproj.GenerateResource.Cache
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.exe
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csprojResolveAssemblyReference.cache
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form1.resources
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form2.resources
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csproj.GenerateResource.Cache
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.TrustInfo.xml
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.pdb
+H:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe.manifest
+H:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.application
+H:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe
+H:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.pdb
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.exe.manifest
+H:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.application
+I:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\yogaltim.accdb
+I:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe.config
+D:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe.config
+D:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.pdb
+F:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe.config
+F:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.exe
+F:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.pdb
+F:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe.manifest
+F:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.application
+F:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.exe
+F:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\malzeme_takip.pdb
+F:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csprojResolveAssemblyReference.cache
+F:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.Form1.resources
+F:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.csproj.GenerateResource.Cache
+F:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.TrustInfo.xml
+F:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.exe.manifest
+F:\malz.takip.son\malzeme_takip\malzeme_takip\obj\x86\Debug\malzeme_takip.application
+F:\malz.takip.son\malzeme_takip\malzeme_takip\bin\Debug\yogaltim.accdb
